@@ -1,6 +1,7 @@
 # Baka
 Sample anti-debug with detect ScyllaHide/Hyper Hide and TitanHide
 
+x64 support only!  
 Peculiarities:  
 -Api Wrapper  
 -change vmp anti-debug  
